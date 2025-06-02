@@ -137,7 +137,7 @@
       "description": "Provide email, first and last name to register."
     },
     "title": "Register",
-    "description": "Create your ZITADEL account.",
+    "description": "Create your OmniWOT account.",
     "selectMethod": "Select the method you would like to authenticate",
     "agreeTo": "To register you must agree to the terms and conditions",
     "termsOfService": "Terms of Service",
